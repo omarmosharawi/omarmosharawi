@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarmosharawi
+- 👋 Hi, I’m @omarmosharawi || Omar Mohamed Sharawi
 - 👀 I’m interested in Development & Traveling
 - 🌱 I’m currently improve my self in PY & JS
 - 💞️ I’m looking to collaborate on code development
