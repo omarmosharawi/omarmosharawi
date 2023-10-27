@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @omarmosharawi || Omar Mohamed Sharawi
 - 👀 I’m interested in Development & Traveling
-- 🌱 I’m currently improve my self in PY & JS
+- 🌱 I’m currently improve my self in PY & JS & DB
 - 💞️ I’m looking to collaborate on code development
-- 📫 How to reach me => IG: omarmosharawi || WhatsApp: +201003765335
+- 📫 How to reach me => Mail: omarmosharawi@gmail.com
 
 <!---
 omarmosharawi/omarmosharawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
