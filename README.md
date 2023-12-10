@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development & Traveling
 - 🌱 I’m currently improve my self in PY & JS & DB
 - 💞️ I’m looking to collaborate on code development
-- 📫 How to reach me => Mail: omarmosharawi@gmail.com
+- 📫 How to reach me => omarmosharawi@gmail.com
 
 <!---
 omarmosharawi/omarmosharawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
