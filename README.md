@@ -12,10 +12,11 @@ I'm a developer who is passionate about creating innovative and useful applicati
 
 You can contact me via email at omarmosharawi@gmail.com. I'm always open to feedback, suggestions, and opportunities.
 
+<!---
 ## My GitHub stats 📊
 
 !omarmosharawi's GitHub stats
-
+--->
 
 <!---
 omarmosharawi/omarmosharawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
