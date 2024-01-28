@@ -14,7 +14,7 @@ You can contact me via email at omarmosharawi@gmail.com. I'm always open to feed
 
 ## My GitHub stats 📊
 
-!Omar's GitHub stats
+!omarmosharawi's GitHub stats
 
 
 <!---
