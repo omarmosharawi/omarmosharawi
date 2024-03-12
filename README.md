@@ -22,7 +22,7 @@ I'm a developer who is passionate about creating innovative and useful applicati
 
 ## How to reach me 📫
 
-You can contact me via email at omarmosharawi@gmail.com. I'm always open to feedback, suggestions, and opportunities.
+You can contact me via email omarmosharawi@gmail.com. I'm always open to feedback, suggestions, and opportunities.
 
 <br>
 
