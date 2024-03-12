@@ -1,8 +1,12 @@
-# Hi, I'm Omar Mohamed Sharawi 👋
+# 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Mohamed+Sharawi!+😎;" />
+</div>
 
 I'm a developer who is passionate about creating innovative and useful applications. I'm also interested in traveling and exploring new places and cultures.
 
 ## My skills and interests 🌱
+
 
 - I'm currently improving my skills in Python, databases, and artificial intelligence.
 - I'm looking to collaborate on code development projects that can solve real-world problems and make a positive impact.
